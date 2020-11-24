@@ -1,1 +1,1 @@
-# String-Variables-in-Swift
+# String Variables in Swift
