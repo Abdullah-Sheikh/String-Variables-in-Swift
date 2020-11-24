@@ -23,7 +23,7 @@ print (str)
 print (constantString)
 
 
-![GitHub Logo](Screenshot 2020-11-24 at 12.56.37 PM.png)
+![GitHub Logo](png1.png)
 
 
 Feel free to Star or Fork it and make your changes , then make pull request.
